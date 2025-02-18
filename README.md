@@ -19,5 +19,6 @@ https://x.com/yokocha_yokoha
 
 ## 謝辞  
 ffmpegの開発者様に感謝申し上げます!  
+Thank you to the developers of ffmpeg!  
 権利表記:
 FFmpeg is a trademark of Fabrice Bellard, originator of the FFmpeg project.  
