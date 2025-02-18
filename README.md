@@ -17,7 +17,7 @@ ffmpegにPathを通しておいてください。(ほかのサイト様をご覧
 上手くできない場合はご連絡ください!  
 https://x.com/yokocha_yokoha  
 
-## 謝辞 Appreciation  
+## 謝辞  
 ffmpegの開発者様に感謝申し上げます!  
 権利表記:
 FFmpeg is a trademark of Fabrice Bellard, originator of the FFmpeg project.  
