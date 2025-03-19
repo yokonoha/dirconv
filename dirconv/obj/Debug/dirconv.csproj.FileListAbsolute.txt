@@ -1,0 +1,16 @@
+E:\source\dirconv\dirconv\bin\Debug\dirconv.exe.config
+E:\source\dirconv\dirconv\bin\Debug\dirconv.exe.manifest
+E:\source\dirconv\dirconv\bin\Debug\dirconv.application
+E:\source\dirconv\dirconv\bin\Debug\dirconv.exe
+E:\source\dirconv\dirconv\bin\Debug\dirconv.pdb
+E:\source\dirconv\dirconv\obj\Debug\dirconv.csproj.AssemblyReference.cache
+E:\source\dirconv\dirconv\obj\Debug\dirconv.Form1.resources
+E:\source\dirconv\dirconv\obj\Debug\dirconv.Form2.resources
+E:\source\dirconv\dirconv\obj\Debug\dirconv.Properties.Resources.resources
+E:\source\dirconv\dirconv\obj\Debug\dirconv.csproj.GenerateResource.cache
+E:\source\dirconv\dirconv\obj\Debug\dirconv.csproj.CoreCompileInputs.cache
+E:\source\dirconv\dirconv\obj\Debug\dirconv.TrustInfo.xml
+E:\source\dirconv\dirconv\obj\Debug\dirconv.exe.manifest
+E:\source\dirconv\dirconv\obj\Debug\dirconv.application
+E:\source\dirconv\dirconv\obj\Debug\dirconv.exe
+E:\source\dirconv\dirconv\obj\Debug\dirconv.pdb
